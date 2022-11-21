@@ -11,6 +11,8 @@
 
 拼音不太好：[在线汉字转换拼音工具](https://www.aies.cn/pinyin.htm)
 
+### 使用
+https://gcore.jsdelivr.net/gh/[Github名]/[仓库名]/[文件夹/文件名]
 
 
 ### 感谢
